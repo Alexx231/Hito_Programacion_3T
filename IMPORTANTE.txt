@@ -1,0 +1,1 @@
+Para que no haya ningun fallo en caso de ejecutar alguno de los proyectos del hito, se debe de extraer el contenido de todas las carpetas tanto de la Cuestion 1,2 y 3 y una vez hecho, ahi si ya con dichos directorios se puede ejecutar sin problemas

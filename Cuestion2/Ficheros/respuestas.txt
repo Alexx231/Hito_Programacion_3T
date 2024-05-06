@@ -1,0 +1,10 @@
+JavaScript
+HyperText Markup Language
+Un bloque de código diseñado para realizar una tarea específica
+Es un mecanismo que permite que una clase adquiera las propiedades y comportamientos de otra clase
+Es un lenguaje de programación utilizado para gestionar y manipular bases de datos
+Es un conjunto de instrucciones o reglas definidas y no ambiguas, ordenadas y finitas que permite solucionar un problema
+Es un método donde la solución a un problema depende de soluciones a instancias más pequeñas del mismo problema
+Es una colección de elementos de datos del mismo tipo
+Es la capacidad de una clase para tener varios métodos con el mismo nombre, pero con diferentes parámetros
+Es un mecanismo que permite a una clase hija proporcionar una implementación específica de un método que ya está proporcionado por su clase padre

@@ -1,0 +1,10 @@
+¿Cuál es el lenguaje de programación más utilizado en 2021?
+¿Qué significa HTML?
+¿Qué es una función en programación?
+¿Qué es la herencia en programación orientada a objetos?
+¿Qué es SQL?
+¿Qué es un algoritmo?
+¿Qué es la recursividad en programación?
+¿Qué es un array en programación?
+¿Qué es la sobrecarga de métodos en programación orientada a objetos?
+¿Qué es la sobrescritura de métodos en programación orientada a objetos?
